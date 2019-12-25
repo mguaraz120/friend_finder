@@ -11,10 +11,9 @@ A full stack web application using node.js, Express and MySQL. This is a compati
 
 ##Technology used:
 * node.js
-* mySQL
 * Javascript
 
 ##Dependencies
-* mysql 
-* handlebars
+* body-parser
 * express
+* path
